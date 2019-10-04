@@ -1,0 +1,5 @@
+/node_modules
+/.idea
+/config/index.js
+/config/index.dev.js
+/config/index.old.js

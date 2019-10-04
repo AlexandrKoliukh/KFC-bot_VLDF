@@ -1,0 +1,29 @@
+{
+  "name": "smart-gate-test",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "faker": "^4.1.0",
+    "jest": "^23.6.0",
+    "puppeteer": "^1.10.0"
+  },
+  "devDependencies": {
+    "babel-core": "^6.26.3",
+    "babel-jest": "^23.6.0",
+    "babel-preset-env": "^1.7.0"
+  },
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://gitlab.com/angelsit-web/smart-gate-test.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://gitlab.com/angelsit-web/smart-gate-test/issues"
+  },
+  "homepage": "https://gitlab.com/angelsit-web/smart-gate-test#README"
+}
